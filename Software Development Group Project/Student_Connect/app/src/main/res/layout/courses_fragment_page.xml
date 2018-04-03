@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Represents the Courses page in the Nav Drawer of the app -->
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/blue"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!--edit text below will be used for user to add new course -->
+    <AutoCompleteTextView
+        android:id="@+id/courseEditItem"
+        android:layout_width="300dp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="5dp"
+        android:maxLength="8"
+        android:paddingLeft="5dp"
+        android:background="@drawable/textinputborder"
+        android:textAllCaps="true"
+        android:inputType="textNoSuggestions"
+        android:hint="@string/hintTxtItem" />
+
+    <ImageButton
+        android:id="@+id/btnAddCourse"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/courseEditItem"
+        android:layout_weight=".20"
+        android:src="@drawable/ic_add_box_black_24dp" />
+
+    <ListView
+        android:id="@android:id/list"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btnAddCourse"
+        android:choiceMode="multipleChoice">
+    </ListView>
+
+    <TextView
+        android:id="@android:id/empty"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/courseEditItem"
+        android:text="@string/txtEmpty"
+        android:gravity="center_horizontal" />
+
+    <Button
+        android:id="@+id/btnDel"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:backgroundTint="@color/white"
+        android:text="@string/lblBtnDel" />
+
+
+</RelativeLayout>

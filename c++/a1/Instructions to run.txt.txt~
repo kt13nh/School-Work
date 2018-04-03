@@ -1,0 +1,31 @@
+Please run programs with Linux!! 
+
+
+
+To run Pi Approximations program, simply navigate to the folder with unix, and enter the following to compile and run:
+
+g++ -o run main.cpp approximations.cpp randomNumberGenerator.cpp
+
+./run
+
+
+
+
+
+
+To run the Pairing primes program, navigate to the folder with unix, and enter the following to compile and run:
+
+g++ -o run main.cpp pairing.cpp
+
+./run
+
+
+
+
+To run the simulation of life program, navigate to the folder with Unix, and enter the following to compile and run: 
+
+g++ -o run main.cpp simulation.cpp
+
+./run
+
+The program will then prompt for each seed individually, make sure to enter integer values for each. The program will then display the first generation, any additional information you wish to generated, simply press "1" then enter.

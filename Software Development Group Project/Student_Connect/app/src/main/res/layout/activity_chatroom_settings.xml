@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="ca.brocku.kt13nh.Student_Connect.chatroom_components.ChatroomSettings">
+
+
+    <CheckBox
+        android:id="@+id/anonymousCheck"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Post as Anonymous"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:onClick="anonymousCheckClicked"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginBottom="10dp"/>
+
+    <TextView
+        android:id="@+id/memberTxt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:textStyle="bold"
+        android:visibility="invisible"
+        android:text="Members"/>
+
+    <ListView
+        android:id="@+id/privateChatUsersListView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/linearLayout"
+        android:divider="@android:color/black"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="15dp"
+        android:visibility="invisible"
+        android:transcriptMode="alwaysScroll" />
+
+    <Button
+        android:id="@+id/addStudentBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?android:colorBackground"
+        android:gravity="left|center_vertical"
+        android:visibility="invisible"
+        android:onClick="addUser"
+        android:text="  Add Students"/>
+
+    <Button
+        android:id="@+id/leaveBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/holo_red_dark"
+        android:gravity="left|center_vertical"
+        android:textColor="@color/white"
+        android:visibility="invisible"
+        android:onClick="leaveChat"
+        android:text="  Leave Chat"/>
+
+</LinearLayout>

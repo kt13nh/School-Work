@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  Main.cpp
+  Board.cpp
+  Generating Code...
+z:\4f00\a2\connect4\connect4\board.cpp(119): warning C4715: 'Board::numberToCharColumn': not all control paths return a value
+z:\4f00\a2\connect4\connect4\board.cpp(142): warning C4715: 'Board::getColumnVal': not all control paths return a value
+z:\4f00\a2\connect4\connect4\board.cpp(199): warning C4715: 'Board::specialCase': not all control paths return a value
+z:\4f00\a2\connect4\connect4\board.cpp(181): warning C4715: 'Board::checkTetrisDrop': not all control paths return a value
+z:\4f00\a2\connect4\connect4\board.cpp(710): warning C4715: 'Board::evaluateBoard': not all control paths return a value
+  Connect4.vcxproj -> Z:\4F00\a2\Connect4\Debug\Connect4.exe
+  Connect4.vcxproj -> Z:\4F00\a2\Connect4\Debug\Connect4.pdb (Full PDB)

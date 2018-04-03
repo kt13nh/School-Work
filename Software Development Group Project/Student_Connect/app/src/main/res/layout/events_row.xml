@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/lib/com.maher.studentcontent"
+    android:id="@+id/cardView"
+    android:layout_width="fill_parent"
+    android:layout_height="70dp"
+    android:layout_marginLeft="10dp"
+    android:layout_marginRight="10dp"
+    android:layout_marginTop="10dp"
+    app:cardCornerRadius="5dp"
+    app:cardElevation="7dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+
+        <TextView
+            android:id="@+id/eventsTitle"
+
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:padding="15dp"
+            android:text="Card Title"
+            android:textColor="#000000"
+            android:textSize="17sp" ></TextView>
+
+        <Button
+            android:id="@+id/eventsDate"
+            android:background="@color/textColorPrimary"
+            android:layout_width="100dp"
+            android:layout_height="30dp"
+            android:layout_alignParentEnd="true"
+            android:gravity="center"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:text="Date"
+            android:textColor="#000000"
+            android:textSize="12sp" ></Button>
+
+
+    </RelativeLayout>
+
+
+
+</android.support.v7.widget.CardView>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" package="ca.brocku.kt13nh.Student_Connect">
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE"/>
+    <permission android:name="ca.brocku.kt13nh.Student_Connect.permission.C2D_MESSAGE" android:protectionLevel="signature"/>
+    <uses-permission android:name="ca.brocku.kt13nh.Student_Connect.permission.C2D_MESSAGE"/>
+    <application android:allowBackup="true"
+        android:configChanges="orientation"
+        android:icon="@mipmap/ic_sc"
+        android:label="Student Connect"
+        android:screenOrientation="portrait"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:label="Student Connect"
+            android:name="ca.brocku.kt13nh.Student_Connect.MainActivity"
+            android:theme="@style/AppTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:label="Student Connect"
+            android:name="ca.brocku.kt13nh.Student_Connect.login_reg_java_v2.activity_login"
+            android:parentActivityName="ca.brocku.kt13nh.Student_Connect.MainActivity"
+            android:theme="@style/AppTheme">&gt;
+        </activity>
+        <activity android:label="Student Connect"
+            android:name="ca.brocku.kt13nh.Student_Connect.login_reg_java_v2.activity_register"
+            android:parentActivityName="ca.brocku.kt13nh.Student_Connect.MainActivity"
+            android:theme="@style/AppTheme">&gt;
+        </activity>
+        <activity android:label="Student Connect"
+            android:name="ca.brocku.kt13nh.Student_Connect.login_reg_java_v2.ForgotPassword"
+            android:parentActivityName="ca.brocku.kt13nh.Student_Connect.login_reg_java_v2.activity_login"
+            android:theme="@style/AppTheme">&gt;
+        </activity>
+        <activity android:configChanges="orientation"
+            android:name="ca.brocku.kt13nh.Student_Connect.base_interface_java_v3.NavBar"
+            android:screenOrientation="portrait"/>
+        <activity android:name="ca.brocku.kt13nh.Student_Connect.drawer_components.Profile"
+            android:parentActivityName="ca.brocku.kt13nh.Student_Connect.MainActivity"
+            android:theme="@style/RoomTheme"/>
+        <activity android:name="ca.brocku.kt13nh.Student_Connect.event_components.Event"
+            android:parentActivityName="ca.brocku.kt13nh.Student_Connect.base_interface_java_v3.NavBar"/>
+        <activity android:name="ca.brocku.kt13nh.Student_Connect.first_login_components.CourseRegisterPage"/>
+        <activity android:name="ca.brocku.kt13nh.Student_Connect.floating_action_button_components.NewEvent"
+            android:theme="@style/AppTheme.CustomPopUpTheme"/>
+
+        <activity android:name="ca.brocku.kt13nh.Student_Connect.floating_action_button_components.NewQuestion"
+            android:theme="@style/AppTheme.CustomPopUpTheme"/>
+        <activity android:name="ca.brocku.kt13nh.Student_Connect.first_login_components.HobbiesRegisterPage"/>
+        <activity android:name="ca.brocku.kt13nh.Student_Connect.chatroom_components.Chatroom"
+            android:parentActivityName="ca.brocku.kt13nh.Student_Connect.MainActivity"
+            android:theme="@style/RoomTheme"/>
+        <activity android:name="ca.brocku.kt13nh.Student_Connect.chatroom_components.ChatroomSettings"
+            android:parentActivityName="ca.brocku.kt13nh.Student_Connect.chatroom_components.Chatroom"
+            android:theme="@style/RoomTheme"/>
+        <activity android:name="ca.brocku.kt13nh.Student_Connect.qa_components.QaDisplay"
+            android:theme="@style/RoomTheme"/>
+        <activity android:excludeFromRecents="true"
+            android:exported="true"
+            android:launchMode="singleInstance"
+            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+        <meta-data android:name="android.support.VERSION" android:value="26.1.0"/>
+        <receiver android:enabled="true"
+            android:exported="false"
+            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"/>
+        <receiver android:enabled="true"
+            android:exported="true"
+            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+            android:permission="android.permission.INSTALL_PACKAGES">
+            <intent-filter>
+                <action android:name="com.android.vending.INALLST_REFERRER"/>
+            </intent-filter>
+        </receiver>
+        <service android:enabled="true"
+            android:exported="false"
+            android:name="com.google.android.gms.measurement.AppMeasurementService"/>
+        <service android:enabled="true"
+            android:exported="false"
+            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+            android:permission="android.permission.BIND_JOB_SERVICE"/>
+        <receiver android:exported="true"
+            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+            android:permission="com.google.android.c2dm.permission.SEND">
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE"/>
+                <category android:name="ca.brocku.kt13nh.Student_Connect"/>
+            </intent-filter>
+        </receiver>
+        <service android:exported="true" android:name="com.google.firebase.iid.FirebaseInstanceIdService">
+            <intent-filter android:priority="-500">
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT"/>
+            </intent-filter>
+        </service>
+        <provider
+            android:authorities="ca.brocku.kt13nh.Student_Connect.firebaseinitprovider"
+            android:exported="false"
+            android:initOrder="100"
+            android:name="com.google.firebase.provider.FirebaseInitProvider"/>
+        <activity android:exported="false"
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+        <meta-data android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version"/>
+        <meta-data android:name="android.arch.lifecycle.VERSION"
+            android:value="27.0.0-SNAPSHOT"/>
+    </application>
+</manifest>

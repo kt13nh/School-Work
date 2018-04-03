@@ -1,0 +1,1721 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.13)  13 NOV 2017 05:09
+entering extended mode
+**"./TSP report.tex"
+("TSP report.tex"
+LaTeX2e <2017-04-15>
+Babel <3.15> and hyphenation patterns for 75 language(s) loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\ieeetran\IEEEtran.cls"
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpdimenC=\dimen104
+\@IEEEtrantmpcountA=\count79
+\@IEEEtrantmpcountB=\count80
+\@IEEEtrantmpcountC=\count81
+\@IEEEtrantmptoksA=\toks14
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 503.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen105
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen106
+\CLASSINFOnormalsizeunitybaselineskip=\dimen107
+\IEEEnormaljot=\dimen108
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+\IEEEquantizedlength=\dimen109
+\IEEEquantizedlengthdiff=\dimen110
+\IEEEquantizedtextheightdiff=\dimen111
+\IEEEilabelindentA=\dimen112
+\IEEEilabelindentB=\dimen113
+\IEEEilabelindent=\dimen114
+\IEEEelabelindent=\dimen115
+\IEEEdlabelindent=\dimen116
+\IEEElabelindent=\dimen117
+\IEEEiednormlabelsep=\dimen118
+\IEEEiedmathlabelsep=\dimen119
+\IEEEiedtopsep=\skip41
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@IEEEsubequation=\count86
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count87
+\c@table=\count88
+\@IEEEeqnnumcols=\count89
+\@IEEEeqncolcnt=\count90
+\@IEEEsubeqnnumrollback=\count91
+\@IEEEquantizeheightA=\dimen120
+\@IEEEquantizeheightB=\dimen121
+\@IEEEquantizeheightC=\dimen122
+\@IEEEquantizeprevdepth=\dimen123
+\@IEEEquantizemultiple=\count92
+\@IEEEquantizeboxA=\box26
+\@IEEEtmpitemindent=\dimen124
+\IEEEPARstartletwidth=\dimen125
+\c@IEEEbiography=\count93
+\@IEEEtranrubishbin=\box27
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\pifont.sty"
+Package: pifont 2005/04/12 PSNFSS-v9.2a Pi font support (SPQR) 
+LaTeX Font Info:    Try loading font information for U+pzd on input line 63.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\upzd.fd"
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Try loading font information for U+psy on input line 64.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\upsy.fd"
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\cite\cite.sty"
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption.sty"
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty"
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+\captionmargin=\dimen126
+\captionmargin@=\dimen127
+\captionwidth=\dimen128
+\caption@tempdima=\dimen129
+\caption@indent=\dimen130
+\caption@parindent=\dimen131
+\caption@hangindent=\dimen132
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+Package caption Info: \@makecaption = \long macro:#1#2->\ifx \@captype \@IEEEta
+blestring \footnotesize \bgroup \par \centering \@IEEEtabletopskipstrut {\norma
+lfont \footnotesize #1}\\{\normalfont \footnotesize \scshape #2}\par \addvspace
+ {0.5\baselineskip }\egroup \@IEEEtablecaptionsepspace \else \@IEEEfigurecaptio
+nsepspace \setbox \@tempboxa \hbox {\normalfont \footnotesize {#1.}\nobreakspac
+e \nobreakspace #2}\ifdim \wd \@tempboxa >\hsize \setbox \@tempboxa \hbox {\nor
+malfont \footnotesize {#1.}\nobreakspace \nobreakspace }\parbox [t]{\hsize }{\n
+ormalfont \footnotesize \noindent \unhbox \@tempboxa #2}\else \ifCLASSOPTIONcon
+ference \hbox to\hsize {\normalfont \footnotesize \hfil \box \@tempboxa \hfil }
+\else \hbox to\hsize {\normalfont \footnotesize \box \@tempboxa \hfil }\fi \fi 
+\fi .
+\c@ContinuedFloat=\count94
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
+Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
+\multirow@colwidth=\skip44
+\multirow@cntb=\count95
+\multirow@dima=\skip45
+\bigstrutjot=\dimen133
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip46
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen134
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen135
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count96
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count97
+\leftroot@=\count98
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count99
+\DOTSCASE@=\count100
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box28
+\strutbox@=\box29
+\big@size=\dimen136
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count101
+\c@MaxMatrixCols=\count102
+\dotsspace@=\muskip11
+\c@parentequation=\count103
+\dspbrk@lvl=\count104
+\tag@help=\toks17
+\row@=\count105
+\column@=\count106
+\maxfields@=\count107
+\andhelp@=\toks18
+\eqnshift@=\dimen137
+\alignsep@=\dimen138
+\tagshift@=\dimen139
+\tagwidth@=\dimen140
+\totwidth@=\dimen141
+\lineht@=\dimen142
+\@envbody=\toks19
+\multlinegap=\skip47
+\multlinetaggap=\skip48
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\mdwtools\mdwmath.sty"
+Package: mdwmath 1996/04/11 1.1 Nice mathematical things
+\sq@sqrt=\count108
+LaTeX Info: Redefining \sqrt on input line 84.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count109
+\float@exts=\toks21
+\float@box=\box30
+\@float@everytoks=\toks22
+\@floatcapt=\box31
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+)
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 105.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1ptm.fd"
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2017/06/24 v1.0g Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen143
+\Gin@req@width=\dimen144
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\varwidth.sty"
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box32
+\sift@deathcycles=\count110
+\@vwid@loff=\dimen145
+\@vwid@roff=\dimen146
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\algorithmicx\algpseudocode.sty"
+Package: algpseudocode 
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\algorithmicx\algorithmicx.sty"
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count111
+\c@ALG@rem=\count112
+\c@ALG@nested=\count113
+\ALG@tlm=\skip49
+\ALG@thistlm=\skip50
+\c@ALG@Lnr=\count114
+\c@ALG@blocknr=\count115
+\c@ALG@storecount=\count116
+\c@ALG@tmpcounter=\count117
+\ALG@tmplength=\skip51
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
+\col@sep=\dimen147
+\extrarowheight=\dimen148
+\NC@list=\toks23
+\extratabsurround=\skip52
+\backup@length=\skip53
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\program\program.sty"
+\@gtempa=\dimen149
+\@gtempa=\dimen150
+\@gtempa=\dimen151
+\@gtempa=\dimen152
+\@gtempa=\dimen153
+\@gtempa=\dimen154
+\@gtempa=\dimen155
+\@gtempa=\dimen156
+\@gtempa=\dimen157
+\@gtempa=\dimen158
+\@gtempa=\dimen159
+\@gtempa=\dimen160
+\@gtempa=\dimen161
+\@gtempa=\dimen162
+\@gtempa=\dimen163
+\@gtempa=\dimen164
+\@gtempa=\dimen165
+\@gtempa=\dimen166
+\@gtempa=\dimen167
+\@gtempa=\dimen168
+\@gtempa=\dimen169
+\@gtempa=\dimen170
+\@gtempa=\dimen171
+\@gtempa=\dimen172
+\@gtempa=\dimen173
+\@gtempa=\dimen174
+\@gtempa=\dimen175
+\@gtempa=\dimen176
+\@gtempa=\dimen177
+\@gtempa=\dimen178
+\@gtempa=\dimen179
+\@gtempa=\dimen180
+\@gtempa=\dimen181
+\@gtempa=\dimen182
+\@gtempa=\dimen183
+\@gtempa=\dimen184
+\@gtempa=\dimen185
+\@gtempa=\dimen186
+\@gtempa=\dimen187
+\@gtempa=\dimen188
+\@gtempa=\dimen189
+\@gtempa=\dimen190
+\@gtempa=\dimen191
+\@gtempa=\dimen192
+\@gtempa=\dimen193
+\@gtempa=\dimen194
+\@gtempa=\dimen195
+\@gtempa=\dimen196
+\@gtempa=\dimen197
+\@gtempa=\dimen198
+\c@programline=\count118
+\old@nxttabmar=\count119
+\symeulerletters=\mathgroup6
+\powersetbox=\box33
+LaTeX Font Info:    Calculating math sizes for size <14> on input line 841.
+LaTeX Font Info:    Try loading font information for U+msa on input line 841.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 841.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+eur on input line 841.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\ueur.fd"
+File: ueur.fd 2013/01/14 v3.01 Euler Roman
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\subfig\subfig.sty"
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+\c@KVtest=\count120
+\sf@farskip=\skip54
+\sf@captopadj=\dimen199
+\sf@capskip=\skip55
+\sf@nearskip=\skip56
+\c@subfigure=\count121
+\c@subfigure@save=\count122
+\c@lofdepth=\count123
+\c@subtable=\count124
+\c@subtable@save=\count125
+\c@lotdepth=\count126
+\sf@top=\skip57
+\sf@bottom=\skip58
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\algorithms\algorithm.sty"
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+\@float@every@algorithm=\toks24
+\c@algorithm=\count127
+)
+("TSP report.aux"
+
+LaTeX Warning: Label `IEEEhowto:kopka' multiply defined.
+
+
+LaTeX Warning: Label `IEEEhowto:kopka' multiply defined.
+
+)
+\openout1 = `"TSP report.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 338.
+LaTeX Font Info:    ... okay on input line 338.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 338.
+LaTeX Font Info:    ... okay on input line 338.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 338.
+LaTeX Font Info:    ... okay on input line 338.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 338.
+LaTeX Font Info:    ... okay on input line 338.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 338.
+LaTeX Font Info:    ... okay on input line 338.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 338.
+LaTeX Font Info:    ... okay on input line 338.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 338.
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 338.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 338.
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 338.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 338.
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 338.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 338.
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 338.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 338.
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 338.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 338.
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 338.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 338.
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 338.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 338.
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 338.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 338.
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 338.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 338.
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 338.
+
+-- Lines per column: 56 (exact).
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: float package is loaded.
+Package caption Info: End \AtBeginDocument code.
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count128
+\scratchdimen=\dimen256
+\scratchbox=\box34
+\nofMPsegments=\count129
+\nofMParguments=\count130
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count131
+\MPscratchDim=\dimen257
+\MPnumerator=\count132
+\makeMPintoPDFobject=\count133
+\everyMPtoPDFconversion=\toks26
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+<Parameter_results/Berlin52/UOC/Berlin52_UOC_a)_table.png, id=1, 602.25pt x 144
+.54pt>
+File: Parameter_results/Berlin52/UOC/Berlin52_UOC_a)_table.png Graphic file (ty
+pe png)
+<use Parameter_results/Berlin52/UOC/Berlin52_UOC_a)_table.png>
+Package pdftex.def Info: Parameter_results/Berlin52/UOC/Berlin52_UOC_a)_table.p
+ng  used on input line 454. on input line 454.
+Package pdftex.def Info: Requested size: 252.94327pt x 60.70638pt on input line
+ 454.
+<Parameter_results/Berlin52/UOC/Berlin52_UOC_b)_table.png, id=3, 602.25pt x 146
+.5475pt>
+File: Parameter_results/Berlin52/UOC/Berlin52_UOC_b)_table.png Graphic file (ty
+pe png)
+<use Parameter_results/Berlin52/UOC/Berlin52_UOC_b)_table.png>
+Package pdftex.def Info: Parameter_results/Berlin52/UOC/Berlin52_UOC_b)_table.p
+ng  used on input line 455. on input line 455.
+Package pdftex.def Info: Requested size: 252.94327pt x 61.54951pt on input line
+ 455.
+<Parameter_results/Berlin52/UOC/Berlin52_UOC_c)_table.png, id=4, 602.25pt x 136
+.51pt>
+File: Parameter_results/Berlin52/UOC/Berlin52_UOC_c)_table.png Graphic file (ty
+pe png)
+<use Parameter_results/Berlin52/UOC/Berlin52_UOC_c)_table.png>
+Package pdftex.def Info: Parameter_results/Berlin52/UOC/Berlin52_UOC_c)_table.p
+ng  used on input line 456. on input line 456.
+Package pdftex.def Info: Requested size: 252.94327pt x 57.3338pt on input line 
+456.
+<Parameter_results/Berlin52/UOC/Berlin52_UOC_d)_table.png, id=5, 602.25pt x 144
+.54pt>
+File: Parameter_results/Berlin52/UOC/Berlin52_UOC_d)_table.png Graphic file (ty
+pe png)
+<use Parameter_results/Berlin52/UOC/Berlin52_UOC_d)_table.png>
+Package pdftex.def Info: Parameter_results/Berlin52/UOC/Berlin52_UOC_d)_table.p
+ng  used on input line 457. on input line 457.
+Package pdftex.def Info: Requested size: 252.94327pt x 60.70638pt on input line
+ 457.
+<Parameter_results/Berlin52/UOC/Berlin52_UOC_e)_table.png, id=6, 602.25pt x 139
+.52126pt>
+File: Parameter_results/Berlin52/UOC/Berlin52_UOC_e)_table.png Graphic file (ty
+pe png)
+<use Parameter_results/Berlin52/UOC/Berlin52_UOC_e)_table.png>
+Package pdftex.def Info: Parameter_results/Berlin52/UOC/Berlin52_UOC_e)_table.p
+ng  used on input line 458. on input line 458.
+Package pdftex.def Info: Requested size: 252.94327pt x 58.59851pt on input line
+ 458.
+
+Underfull \hbox (badness 1490) in paragraph at lines 452--459
+ \T1/ptm/m/it/10 1) Berlin52 Uni-form Or-der Crossover: [][] \T1/ptm/m/n/10 The
+ fol-low-ing
+ []
+
+
+Underfull \hbox (badness 7814) in paragraph at lines 452--459
+\T1/ptm/m/n/10 pa-ram-e-ters are used in the ex-per-i-ment of Berlin52
+ []
+
+
+Underfull \hbox (badness 1546) in paragraph at lines 452--459
+\T1/ptm/m/n/10 us-ing Uni-form or-der Crossover and In-ver-sion Mu-ta-tion:
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 452--459
+[]
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 452--459
+[]
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 452--459
+[]
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 452--459
+[]
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 452--459
+[] 
+ []
+
+[1{C:/Users/Tram/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+]
+<Parameter_results/Berlin52/OC/Berlin52_OC_a)_table.png, id=20, 602.25pt x 137.
+51375pt>
+File: Parameter_results/Berlin52/OC/Berlin52_OC_a)_table.png Graphic file (type
+ png)
+<use Parameter_results/Berlin52/OC/Berlin52_OC_a)_table.png>
+Package pdftex.def Info: Parameter_results/Berlin52/OC/Berlin52_OC_a)_table.png
+  used on input line 465. on input line 465.
+Package pdftex.def Info: Requested size: 252.94327pt x 57.75537pt on input line
+ 465.
+<Parameter_results/Berlin52/OC/Berlin52_OC_b)_table.png, id=21, 602.25pt x 135.
+50626pt>
+File: Parameter_results/Berlin52/OC/Berlin52_OC_b)_table.png Graphic file (type
+ png)
+<use Parameter_results/Berlin52/OC/Berlin52_OC_b)_table.png>
+Package pdftex.def Info: Parameter_results/Berlin52/OC/Berlin52_OC_b)_table.png
+  used on input line 466. on input line 466.
+Package pdftex.def Info: Requested size: 252.94327pt x 56.91223pt on input line
+ 466.
+<Parameter_results/Berlin52/OC/Berlin52_OC_c)_table.png, id=22, 602.25pt x 145.
+54375pt>
+File: Parameter_results/Berlin52/OC/Berlin52_OC_c)_table.png Graphic file (type
+ png)
+<use Parameter_results/Berlin52/OC/Berlin52_OC_c)_table.png>
+Package pdftex.def Info: Parameter_results/Berlin52/OC/Berlin52_OC_c)_table.png
+  used on input line 467. on input line 467.
+Package pdftex.def Info: Requested size: 252.94327pt x 61.12794pt on input line
+ 467.
+<Parameter_results/Berlin52/OC/Berlin52_OC_d)_table.png, id=23, 602.25pt x 144.
+54pt>
+File: Parameter_results/Berlin52/OC/Berlin52_OC_d)_table.png Graphic file (type
+ png)
+<use Parameter_results/Berlin52/OC/Berlin52_OC_d)_table.png>
+Package pdftex.def Info: Parameter_results/Berlin52/OC/Berlin52_OC_d)_table.png
+  used on input line 468. on input line 468.
+Package pdftex.def Info: Requested size: 252.94327pt x 60.70638pt on input line
+ 468.
+<Parameter_results/Berlin52/OC/Berlin52_OC_e)_table.png, id=24, 602.25pt x 145.
+54375pt>
+File: Parameter_results/Berlin52/OC/Berlin52_OC_e)_table.png Graphic file (type
+ png)
+<use Parameter_results/Berlin52/OC/Berlin52_OC_e)_table.png>
+Package pdftex.def Info: Parameter_results/Berlin52/OC/Berlin52_OC_e)_table.png
+  used on input line 469. on input line 469.
+Package pdftex.def Info: Requested size: 252.94327pt x 61.12794pt on input line
+ 469.
+
+Underfull \hbox (badness 10000) in paragraph at lines 464--470
+ \T1/ptm/m/it/10 2) Berlin52 Or-der Crossover: [][] \T1/ptm/m/n/10 The fol-low-
+ing
+ []
+
+
+Underfull \hbox (badness 7814) in paragraph at lines 464--470
+\T1/ptm/m/n/10 pa-ram-e-ters are used in the ex-per-i-ment of Berlin52
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 464--470
+\T1/ptm/m/n/10 us-ing Or-der Crossover and In-ver-sion Mu-ta-tion:
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 464--470
+[]
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 464--470
+[]
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 464--470
+[]
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 464--470
+[]
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 464--470
+[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+<Parameter_results/Djibouti38/UOC/Djibouti38_UOC_a)_table.png, id=25, 602.25pt 
+x 134.5025pt>
+File: Parameter_results/Djibouti38/UOC/Djibouti38_UOC_a)_table.png Graphic file
+ (type png)
+<use Parameter_results/Djibouti38/UOC/Djibouti38_UOC_a)_table.png>
+Package pdftex.def Info: Parameter_results/Djibouti38/UOC/Djibouti38_UOC_a)_tab
+le.png  used on input line 477. on input line 477.
+Package pdftex.def Info: Requested size: 252.94327pt x 56.49065pt on input line
+ 477.
+<Parameter_results/Djibouti38/UOC/Djibouti38_UOC_b)_table.png, id=26, 602.25pt 
+x 136.51pt>
+File: Parameter_results/Djibouti38/UOC/Djibouti38_UOC_b)_table.png Graphic file
+ (type png)
+<use Parameter_results/Djibouti38/UOC/Djibouti38_UOC_b)_table.png>
+Package pdftex.def Info: Parameter_results/Djibouti38/UOC/Djibouti38_UOC_b)_tab
+le.png  used on input line 478. on input line 478.
+Package pdftex.def Info: Requested size: 252.94327pt x 57.3338pt on input line 
+478.
+<Parameter_results/Djibouti38/UOC/Djibouti38_UOC_c)_table.png, id=27, 602.25pt 
+x 135.50626pt>
+File: Parameter_results/Djibouti38/UOC/Djibouti38_UOC_c)_table.png Graphic file
+ (type png)
+<use Parameter_results/Djibouti38/UOC/Djibouti38_UOC_c)_table.png>
+Package pdftex.def Info: Parameter_results/Djibouti38/UOC/Djibouti38_UOC_c)_tab
+le.png  used on input line 479. on input line 479.
+Package pdftex.def Info: Requested size: 252.94327pt x 56.91223pt on input line
+ 479.
+<Parameter_results/Djibouti38/UOC/Djibouti38_UOC_d)_table.png, id=28, 602.25pt 
+x 136.51pt>
+File: Parameter_results/Djibouti38/UOC/Djibouti38_UOC_d)_table.png Graphic file
+ (type png)
+<use Parameter_results/Djibouti38/UOC/Djibouti38_UOC_d)_table.png>
+Package pdftex.def Info: Parameter_results/Djibouti38/UOC/Djibouti38_UOC_d)_tab
+le.png  used on input line 480. on input line 480.
+Package pdftex.def Info: Requested size: 252.94327pt x 57.3338pt on input line 
+480.
+<Parameter_results/Djibouti38/UOC/Djibouti38_UOC_e)_table.png, id=29, 602.25pt 
+x 134.5025pt>
+File: Parameter_results/Djibouti38/UOC/Djibouti38_UOC_e)_table.png Graphic file
+ (type png)
+<use Parameter_results/Djibouti38/UOC/Djibouti38_UOC_e)_table.png>
+Package pdftex.def Info: Parameter_results/Djibouti38/UOC/Djibouti38_UOC_e)_tab
+le.png  used on input line 481. on input line 481.
+Package pdftex.def Info: Requested size: 252.94327pt x 56.49065pt on input line
+ 481.
+
+Underfull \hbox (badness 4217) in paragraph at lines 476--482
+\T1/ptm/m/n/10 pa-ram-e-ters are used in the ex-per-i-ment of Dji-bouti38
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 476--482
+[]
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 476--482
+[]
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 476--482
+[]
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 476--482
+[]
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 476--482
+[] 
+ []
+
+<Parameter_results/Djibouti38/OC/Djibouti38_OC_a)_table.png, id=30, 602.25pt x 
+138.5175pt>
+File: Parameter_results/Djibouti38/OC/Djibouti38_OC_a)_table.png Graphic file (
+type png)
+<use Parameter_results/Djibouti38/OC/Djibouti38_OC_a)_table.png>
+Package pdftex.def Info: Parameter_results/Djibouti38/OC/Djibouti38_OC_a)_table
+.png  used on input line 488. on input line 488.
+Package pdftex.def Info: Requested size: 252.94327pt x 58.17694pt on input line
+ 488.
+<Parameter_results/Djibouti38/OC/Djibouti38_OC_b)_table.png, id=31, 602.25pt x 
+139.52126pt>
+File: Parameter_results/Djibouti38/OC/Djibouti38_OC_b)_table.png Graphic file (
+type png)
+<use Parameter_results/Djibouti38/OC/Djibouti38_OC_b)_table.png>
+Package pdftex.def Info: Parameter_results/Djibouti38/OC/Djibouti38_OC_b)_table
+.png  used on input line 489. on input line 489.
+Package pdftex.def Info: Requested size: 252.94327pt x 58.59851pt on input line
+ 489.
+<Parameter_results/Djibouti38/OC/Djibouti38_OC_c)_table.png, id=32, 602.25pt x 
+144.54pt>
+File: Parameter_results/Djibouti38/OC/Djibouti38_OC_c)_table.png Graphic file (
+type png)
+<use Parameter_results/Djibouti38/OC/Djibouti38_OC_c)_table.png>
+Package pdftex.def Info: Parameter_results/Djibouti38/OC/Djibouti38_OC_c)_table
+.png  used on input line 490. on input line 490.
+Package pdftex.def Info: Requested size: 252.94327pt x 60.70638pt on input line
+ 490.
+<Parameter_results/Djibouti38/OC/Djibouti38_OC_d)_table.png, id=33, 602.25pt x 
+137.51375pt>
+File: Parameter_results/Djibouti38/OC/Djibouti38_OC_d)_table.png Graphic file (
+type png)
+<use Parameter_results/Djibouti38/OC/Djibouti38_OC_d)_table.png>
+Package pdftex.def Info: Parameter_results/Djibouti38/OC/Djibouti38_OC_d)_table
+.png  used on input line 491. on input line 491.
+Package pdftex.def Info: Requested size: 252.94327pt x 57.75537pt on input line
+ 491.
+<Parameter_results/Djibouti38/OC/Djibouti38_OC_e)_table.png, id=34, 602.25pt x 
+135.50626pt>
+File: Parameter_results/Djibouti38/OC/Djibouti38_OC_e)_table.png Graphic file (
+type png)
+<use Parameter_results/Djibouti38/OC/Djibouti38_OC_e)_table.png>
+Package pdftex.def Info: Parameter_results/Djibouti38/OC/Djibouti38_OC_e)_table
+.png  used on input line 492. on input line 492.
+Package pdftex.def Info: Requested size: 252.94327pt x 56.91223pt on input line
+ 492.
+
+Underfull \hbox (badness 10000) in paragraph at lines 487--493
+ \T1/ptm/m/it/10 4) Dji-bouti38 Or-der Crossover: [][] \T1/ptm/m/n/10 The fol-l
+ow-ing
+ []
+
+
+Underfull \hbox (badness 4217) in paragraph at lines 487--493
+\T1/ptm/m/n/10 pa-ram-e-ters are used in the ex-per-i-ment of Dji-bouti38
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 487--493
+[]
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 487--493
+[]
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 487--493
+[]
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 487--493
+[]
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 487--493
+[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2 <./Parameter_results/Berlin52/UOC/Berlin52_UOC_a)_table.png> <./Parameter_r
+esults/Berlin52/UOC/Berlin52_UOC_b)_table.png> <./Parameter_results/Berlin52/UO
+C/Berlin52_UOC_c)_table.png> <./Parameter_results/Berlin52/UOC/Berlin52_UOC_d)_
+table.png> <./Parameter_results/Berlin52/UOC/Berlin52_UOC_e)_table.png> <./Para
+meter_results/Berlin52/OC/Berlin52_OC_a)_table.png> <./Parameter_results/Berlin
+52/OC/Berlin52_OC_b)_table.png> <./Parameter_results/Berlin52/OC/Berlin52_OC_c)
+_table.png> <./Parameter_results/Berlin52/OC/Berlin52_OC_d)_table.png> <./Param
+eter_results/Berlin52/OC/Berlin52_OC_e)_table.png> <./Parameter_results/Djibout
+i38/UOC/Djibouti38_UOC_a)_table.png> <./Parameter_results/Djibouti38/UOC/Djibou
+ti38_UOC_b)_table.png> <./Parameter_results/Djibouti38/UOC/Djibouti38_UOC_c)_ta
+ble.png> <./Parameter_results/Djibouti38/UOC/Djibouti38_UOC_d)_table.png> <./Pa
+rameter_results/Djibouti38/UOC/Djibouti38_UOC_e)_table.png> <./Parameter_result
+s/Djibouti38/OC/Djibouti38_OC_a)_table.png> <./Parameter_results/Djibouti38/OC/
+Djibouti38_OC_b)_table.png>]
+File: Parameter_results/Berlin52/UOC/Berlin52_UOC_a)_table.png Graphic file (ty
+pe png)
+<use Parameter_results/Berlin52/UOC/Berlin52_UOC_a)_table.png>
+Package pdftex.def Info: Parameter_results/Berlin52/UOC/Berlin52_UOC_a)_table.p
+ng  used on input line 501. on input line 501.
+Package pdftex.def Info: Requested size: 252.94327pt x 60.70638pt on input line
+ 501.
+<Parameter_results/Berlin52/UOC/Berlin52_UOC_a).png, id=55, 602.25pt x 372.3912
+5pt>
+File: Parameter_results/Berlin52/UOC/Berlin52_UOC_a).png Graphic file (type png
+)
+<use Parameter_results/Berlin52/UOC/Berlin52_UOC_a).png>
+Package pdftex.def Info: Parameter_results/Berlin52/UOC/Berlin52_UOC_a).png  us
+ed on input line 502. on input line 502.
+Package pdftex.def Info: Requested size: 252.94327pt x 156.40324pt on input lin
+e 502.
+
+Underfull \hbox (badness 10000) in paragraph at lines 500--504
+[]\T1/ptm/m/n/10 Berlin52 Uni-form Or-der Crossover a)
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 500--504
+[]
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 500--504
+[]
+ []
+
+File: Parameter_results/Berlin52/UOC/Berlin52_UOC_b)_table.png Graphic file (ty
+pe png)
+<use Parameter_results/Berlin52/UOC/Berlin52_UOC_b)_table.png>
+Package pdftex.def Info: Parameter_results/Berlin52/UOC/Berlin52_UOC_b)_table.p
+ng  used on input line 506. on input line 506.
+Package pdftex.def Info: Requested size: 252.94327pt x 61.54951pt on input line
+ 506.
+<Parameter_results/Berlin52/UOC/Berlin52_UOC_b).png, id=56, 602.25pt x 372.3912
+5pt>
+File: Parameter_results/Berlin52/UOC/Berlin52_UOC_b).png Graphic file (type png
+)
+<use Parameter_results/Berlin52/UOC/Berlin52_UOC_b).png>
+Package pdftex.def Info: Parameter_results/Berlin52/UOC/Berlin52_UOC_b).png  us
+ed on input line 507. on input line 507.
+Package pdftex.def Info: Requested size: 252.94327pt x 156.40324pt on input lin
+e 507.
+
+Underfull \hbox (badness 10000) in paragraph at lines 505--509
+[]\T1/ptm/m/n/10 Berlin52 Uni-form Or-der Crossover b)
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 505--509
+[]
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 505--509
+[]
+ []
+
+File: Parameter_results/Berlin52/UOC/Berlin52_UOC_c)_table.png Graphic file (ty
+pe png)
+<use Parameter_results/Berlin52/UOC/Berlin52_UOC_c)_table.png>
+Package pdftex.def Info: Parameter_results/Berlin52/UOC/Berlin52_UOC_c)_table.p
+ng  used on input line 511. on input line 511.
+Package pdftex.def Info: Requested size: 252.94327pt x 57.3338pt on input line 
+511.
+<Parameter_results/Berlin52/UOC/Berlin52_UOC_c).png, id=57, 602.25pt x 372.3912
+5pt>
+File: Parameter_results/Berlin52/UOC/Berlin52_UOC_c).png Graphic file (type png
+)
+<use Parameter_results/Berlin52/UOC/Berlin52_UOC_c).png>
+Package pdftex.def Info: Parameter_results/Berlin52/UOC/Berlin52_UOC_c).png  us
+ed on input line 512. on input line 512.
+Package pdftex.def Info: Requested size: 252.94327pt x 156.40324pt on input lin
+e 512.
+
+Underfull \hbox (badness 10000) in paragraph at lines 510--514
+[]\T1/ptm/m/n/10 Berlin52 Uni-form Or-der Crossover c)
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 510--514
+[]
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 510--514
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 510--514
+
+ []
+
+File: Parameter_results/Berlin52/UOC/Berlin52_UOC_d)_table.png Graphic file (ty
+pe png)
+<use Parameter_results/Berlin52/UOC/Berlin52_UOC_d)_table.png>
+Package pdftex.def Info: Parameter_results/Berlin52/UOC/Berlin52_UOC_d)_table.p
+ng  used on input line 516. on input line 516.
+Package pdftex.def Info: Requested size: 252.94327pt x 60.70638pt on input line
+ 516.
+<Parameter_results/Berlin52/UOC/Berlin52_UOC_d).png, id=58, 602.25pt x 372.3912
+5pt>
+File: Parameter_results/Berlin52/UOC/Berlin52_UOC_d).png Graphic file (type png
+)
+<use Parameter_results/Berlin52/UOC/Berlin52_UOC_d).png>
+Package pdftex.def Info: Parameter_results/Berlin52/UOC/Berlin52_UOC_d).png  us
+ed on input line 517. on input line 517.
+Package pdftex.def Info: Requested size: 252.94327pt x 156.40324pt on input lin
+e 517.
+
+Underfull \hbox (badness 10000) in paragraph at lines 515--519
+[]\T1/ptm/m/n/10 Berlin52 Uni-form Or-der Crossover d)
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 515--519
+[]
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 515--519
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 515--519
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3 <./Parameter_results/Djibouti38/OC/Djibouti38_OC_c)_table.png> <./Parameter
+_results/Djibouti38/OC/Djibouti38_OC_d)_table.png> <./Parameter_results/Djibout
+i38/OC/Djibouti38_OC_e)_table.png> <./Parameter_results/Berlin52/UOC/Berlin52_U
+OC_a).png (PNG copy)> <./Parameter_results/Berlin52/UOC/Berlin52_UOC_b).png (PN
+G copy)> <./Parameter_results/Berlin52/UOC/Berlin52_UOC_c).png (PNG copy)>]
+File: Parameter_results/Berlin52/UOC/Berlin52_UOC_e)_table.png Graphic file (ty
+pe png)
+<use Parameter_results/Berlin52/UOC/Berlin52_UOC_e)_table.png>
+Package pdftex.def Info: Parameter_results/Berlin52/UOC/Berlin52_UOC_e)_table.p
+ng  used on input line 521. on input line 521.
+Package pdftex.def Info: Requested size: 252.94327pt x 58.59851pt on input line
+ 521.
+<Parameter_results/Berlin52/UOC/Berlin52_UOC_e).png, id=65, 602.25pt x 372.3912
+5pt>
+File: Parameter_results/Berlin52/UOC/Berlin52_UOC_e).png Graphic file (type png
+)
+<use Parameter_results/Berlin52/UOC/Berlin52_UOC_e).png>
+Package pdftex.def Info: Parameter_results/Berlin52/UOC/Berlin52_UOC_e).png  us
+ed on input line 522. on input line 522.
+Package pdftex.def Info: Requested size: 252.94327pt x 156.40324pt on input lin
+e 522.
+
+Underfull \hbox (badness 10000) in paragraph at lines 520--524
+[]\T1/ptm/m/n/10 Berlin52 Uni-form Or-der Crossover e)
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 520--524
+[]
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 520--524
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 520--524
+
+ []
+
+File: Parameter_results/Berlin52/OC/Berlin52_OC_a)_table.png Graphic file (type
+ png)
+<use Parameter_results/Berlin52/OC/Berlin52_OC_a)_table.png>
+Package pdftex.def Info: Parameter_results/Berlin52/OC/Berlin52_OC_a)_table.png
+  used on input line 526. on input line 526.
+Package pdftex.def Info: Requested size: 252.94327pt x 57.75537pt on input line
+ 526.
+<Parameter_results/Berlin52/OC/Berlin52_OC_a).png, id=66, 602.25pt x 372.39125p
+t>
+File: Parameter_results/Berlin52/OC/Berlin52_OC_a).png Graphic file (type png)
+<use Parameter_results/Berlin52/OC/Berlin52_OC_a).png>
+Package pdftex.def Info: Parameter_results/Berlin52/OC/Berlin52_OC_a).png  used
+ on input line 527. on input line 527.
+Package pdftex.def Info: Requested size: 252.94327pt x 156.40324pt on input lin
+e 527.
+
+Underfull \hbox (badness 10000) in paragraph at lines 525--529
+[]\T1/ptm/m/n/10 Berlin52 Or-der Crossover a)
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 525--529
+[]
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 525--529
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 525--529
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: Parameter_results/Berlin52/OC/Berlin52_OC_b)_table.png Graphic file (type
+ png)
+<use Parameter_results/Berlin52/OC/Berlin52_OC_b)_table.png>
+Package pdftex.def Info: Parameter_results/Berlin52/OC/Berlin52_OC_b)_table.png
+  used on input line 531. on input line 531.
+Package pdftex.def Info: Requested size: 252.94327pt x 56.91223pt on input line
+ 531.
+<Parameter_results/Berlin52/OC/Berlin52_OC_b).png, id=67, 602.25pt x 372.39125p
+t>
+File: Parameter_results/Berlin52/OC/Berlin52_OC_b).png Graphic file (type png)
+<use Parameter_results/Berlin52/OC/Berlin52_OC_b).png>
+Package pdftex.def Info: Parameter_results/Berlin52/OC/Berlin52_OC_b).png  used
+ on input line 532. on input line 532.
+Package pdftex.def Info: Requested size: 252.94327pt x 156.40324pt on input lin
+e 532.
+
+Underfull \hbox (badness 10000) in paragraph at lines 530--534
+[]\T1/ptm/m/n/10 Berlin52 Or-der Crossover b)
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 530--534
+[]
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 530--534
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 530--534
+
+ []
+
+File: Parameter_results/Berlin52/OC/Berlin52_OC_c)_table.png Graphic file (type
+ png)
+<use Parameter_results/Berlin52/OC/Berlin52_OC_c)_table.png>
+Package pdftex.def Info: Parameter_results/Berlin52/OC/Berlin52_OC_c)_table.png
+  used on input line 537. on input line 537.
+Package pdftex.def Info: Requested size: 252.94327pt x 61.12794pt on input line
+ 537.
+<Parameter_results/Berlin52/OC/Berlin52_OC_c).png, id=68, 602.25pt x 372.39125p
+t>
+File: Parameter_results/Berlin52/OC/Berlin52_OC_c).png Graphic file (type png)
+<use Parameter_results/Berlin52/OC/Berlin52_OC_c).png>
+Package pdftex.def Info: Parameter_results/Berlin52/OC/Berlin52_OC_c).png  used
+ on input line 538. on input line 538.
+Package pdftex.def Info: Requested size: 252.94327pt x 156.40324pt on input lin
+e 538.
+
+Underfull \hbox (badness 10000) in paragraph at lines 536--540
+[]\T1/ptm/m/n/10 Berlin52 Or-der Crossover c)
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 536--540
+[]
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 536--540
+[]
+ []
+
+
+Underfull \hbox (badness 2057) in paragraph at lines 536--540
+\T1/ptm/m/n/10 graph a), and with the same mu-ta-tion rate, in-di-cat-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 536--540
+
+ []
+
+[4 <./Parameter_results/Berlin52/UOC/Berlin52_UOC_d).png (PNG copy)> <./Paramet
+er_results/Berlin52/UOC/Berlin52_UOC_e).png (PNG copy)> <./Parameter_results/Be
+rlin52/OC/Berlin52_OC_a).png (PNG copy)> <./Parameter_results/Berlin52/OC/Berli
+n52_OC_b).png (PNG copy)>]
+File: Parameter_results/Berlin52/OC/Berlin52_OC_d)_table.png Graphic file (type
+ png)
+<use Parameter_results/Berlin52/OC/Berlin52_OC_d)_table.png>
+Package pdftex.def Info: Parameter_results/Berlin52/OC/Berlin52_OC_d)_table.png
+  used on input line 544. on input line 544.
+Package pdftex.def Info: Requested size: 252.94327pt x 60.70638pt on input line
+ 544.
+<Parameter_results/Berlin52/OC/Berlin52_OC_d).png, id=72, 602.25pt x 372.39125p
+t>
+File: Parameter_results/Berlin52/OC/Berlin52_OC_d).png Graphic file (type png)
+<use Parameter_results/Berlin52/OC/Berlin52_OC_d).png>
+Package pdftex.def Info: Parameter_results/Berlin52/OC/Berlin52_OC_d).png  used
+ on input line 545. on input line 545.
+Package pdftex.def Info: Requested size: 252.94327pt x 156.40324pt on input lin
+e 545.
+
+Underfull \hbox (badness 10000) in paragraph at lines 543--547
+[]\T1/ptm/m/n/10 Berlin52 Or-der Crossover d)
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 543--547
+[]
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 543--547
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 543--547
+
+ []
+
+File: Parameter_results/Berlin52/OC/Berlin52_OC_e)_table.png Graphic file (type
+ png)
+<use Parameter_results/Berlin52/OC/Berlin52_OC_e)_table.png>
+Package pdftex.def Info: Parameter_results/Berlin52/OC/Berlin52_OC_e)_table.png
+  used on input line 550. on input line 550.
+Package pdftex.def Info: Requested size: 252.94327pt x 61.12794pt on input line
+ 550.
+<Parameter_results/Berlin52/OC/Berlin52_OC_e).png, id=73, 602.25pt x 372.39125p
+t>
+File: Parameter_results/Berlin52/OC/Berlin52_OC_e).png Graphic file (type png)
+<use Parameter_results/Berlin52/OC/Berlin52_OC_e).png>
+Package pdftex.def Info: Parameter_results/Berlin52/OC/Berlin52_OC_e).png  used
+ on input line 551. on input line 551.
+Package pdftex.def Info: Requested size: 252.94327pt x 156.40324pt on input lin
+e 551.
+
+Underfull \hbox (badness 10000) in paragraph at lines 549--553
+[]\T1/ptm/m/n/10 Berlin52 Or-der Crossover e)
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 549--553
+[]
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 549--553
+[]
+ []
+
+
+Underfull \hbox (badness 3965) in paragraph at lines 549--553
+\T1/ptm/m/n/10 With the ob-ser-va-tions from the Or-der Crossover, the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 549--553
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: Parameter_results/Djibouti38/UOC/Djibouti38_UOC_a)_table.png Graphic file
+ (type png)
+<use Parameter_results/Djibouti38/UOC/Djibouti38_UOC_a)_table.png>
+Package pdftex.def Info: Parameter_results/Djibouti38/UOC/Djibouti38_UOC_a)_tab
+le.png  used on input line 556. on input line 556.
+Package pdftex.def Info: Requested size: 252.94327pt x 56.49065pt on input line
+ 556.
+<Parameter_results/Djibouti38/UOC/Djibouti38_UOC_a).png, id=74, 602.25pt x 372.
+39125pt>
+File: Parameter_results/Djibouti38/UOC/Djibouti38_UOC_a).png Graphic file (type
+ png)
+<use Parameter_results/Djibouti38/UOC/Djibouti38_UOC_a).png>
+Package pdftex.def Info: Parameter_results/Djibouti38/UOC/Djibouti38_UOC_a).png
+  used on input line 557. on input line 557.
+Package pdftex.def Info: Requested size: 252.94327pt x 156.40324pt on input lin
+e 557.
+
+Underfull \hbox (badness 10000) in paragraph at lines 555--559
+[]\T1/ptm/m/n/10 Djibouti38 Uni-form Or-der Crossover a)
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 555--559
+[]
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 555--559
+[]
+ []
+
+
+Underfull \hbox (badness 2261) in paragraph at lines 555--559
+\T1/ptm/m/n/10 ob-served in the Berlin52 data set. There is a dras-tic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 555--559
+
+ []
+
+File: Parameter_results/Djibouti38/UOC/Djibouti38_UOC_b)_table.png Graphic file
+ (type png)
+<use Parameter_results/Djibouti38/UOC/Djibouti38_UOC_b)_table.png>
+Package pdftex.def Info: Parameter_results/Djibouti38/UOC/Djibouti38_UOC_b)_tab
+le.png  used on input line 562. on input line 562.
+Package pdftex.def Info: Requested size: 252.94327pt x 57.3338pt on input line 
+562.
+<Parameter_results/Djibouti38/UOC/Djibouti38_UOC_b).png, id=75, 602.25pt x 372.
+39125pt>
+File: Parameter_results/Djibouti38/UOC/Djibouti38_UOC_b).png Graphic file (type
+ png)
+<use Parameter_results/Djibouti38/UOC/Djibouti38_UOC_b).png>
+Package pdftex.def Info: Parameter_results/Djibouti38/UOC/Djibouti38_UOC_b).png
+  used on input line 563. on input line 563.
+Package pdftex.def Info: Requested size: 252.94327pt x 156.40324pt on input lin
+e 563.
+
+Underfull \hbox (badness 10000) in paragraph at lines 561--565
+[]\T1/ptm/m/n/10 Djibouti38 Uni-form Or-der Crossover b)
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 561--565
+[]
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 561--565
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 561--565
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5 <./Parameter_results/Berlin52/OC/Berlin52_OC_c).png (PNG copy)> <./Paramete
+r_results/Berlin52/OC/Berlin52_OC_d).png (PNG copy)> <./Parameter_results/Berli
+n52/OC/Berlin52_OC_e).png (PNG copy)> <./Parameter_results/Djibouti38/UOC/Djibo
+uti38_UOC_a).png (PNG copy)>]
+File: Parameter_results/Djibouti38/UOC/Djibouti38_UOC_c)_table.png Graphic file
+ (type png)
+<use Parameter_results/Djibouti38/UOC/Djibouti38_UOC_c)_table.png>
+Package pdftex.def Info: Parameter_results/Djibouti38/UOC/Djibouti38_UOC_c)_tab
+le.png  used on input line 568. on input line 568.
+Package pdftex.def Info: Requested size: 252.94327pt x 56.91223pt on input line
+ 568.
+<Parameter_results/Djibouti38/UOC/Djibouti38_UOC_c).png, id=79, 602.25pt x 372.
+39125pt>
+File: Parameter_results/Djibouti38/UOC/Djibouti38_UOC_c).png Graphic file (type
+ png)
+<use Parameter_results/Djibouti38/UOC/Djibouti38_UOC_c).png>
+Package pdftex.def Info: Parameter_results/Djibouti38/UOC/Djibouti38_UOC_c).png
+  used on input line 569. on input line 569.
+Package pdftex.def Info: Requested size: 252.94327pt x 156.40324pt on input lin
+e 569.
+
+Underfull \hbox (badness 10000) in paragraph at lines 567--571
+[]\T1/ptm/m/n/10 Djibouti38 Uni-form Or-der Crossover c)
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 567--571
+[]
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 567--571
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 567--571
+
+ []
+
+File: Parameter_results/Djibouti38/UOC/Djibouti38_UOC_d)_table.png Graphic file
+ (type png)
+<use Parameter_results/Djibouti38/UOC/Djibouti38_UOC_d)_table.png>
+Package pdftex.def Info: Parameter_results/Djibouti38/UOC/Djibouti38_UOC_d)_tab
+le.png  used on input line 574. on input line 574.
+Package pdftex.def Info: Requested size: 252.94327pt x 57.3338pt on input line 
+574.
+<Parameter_results/Djibouti38/UOC/Djibouti38_UOC_d).png, id=80, 602.25pt x 372.
+39125pt>
+File: Parameter_results/Djibouti38/UOC/Djibouti38_UOC_d).png Graphic file (type
+ png)
+<use Parameter_results/Djibouti38/UOC/Djibouti38_UOC_d).png>
+Package pdftex.def Info: Parameter_results/Djibouti38/UOC/Djibouti38_UOC_d).png
+  used on input line 575. on input line 575.
+Package pdftex.def Info: Requested size: 252.94327pt x 156.40324pt on input lin
+e 575.
+
+Underfull \hbox (badness 10000) in paragraph at lines 573--577
+[]\T1/ptm/m/n/10 Djibouti38 Uni-form Or-der Crossover d)
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 573--577
+[]
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 573--577
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 573--577
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: Parameter_results/Djibouti38/UOC/Djibouti38_UOC_e)_table.png Graphic file
+ (type png)
+<use Parameter_results/Djibouti38/UOC/Djibouti38_UOC_e)_table.png>
+Package pdftex.def Info: Parameter_results/Djibouti38/UOC/Djibouti38_UOC_e)_tab
+le.png  used on input line 580. on input line 580.
+Package pdftex.def Info: Requested size: 252.94327pt x 56.49065pt on input line
+ 580.
+<Parameter_results/Djibouti38/UOC/Djibouti38_UOC_e).png, id=81, 602.25pt x 372.
+39125pt>
+File: Parameter_results/Djibouti38/UOC/Djibouti38_UOC_e).png Graphic file (type
+ png)
+<use Parameter_results/Djibouti38/UOC/Djibouti38_UOC_e).png>
+Package pdftex.def Info: Parameter_results/Djibouti38/UOC/Djibouti38_UOC_e).png
+  used on input line 581. on input line 581.
+Package pdftex.def Info: Requested size: 252.94327pt x 156.40324pt on input lin
+e 581.
+
+Underfull \hbox (badness 10000) in paragraph at lines 579--583
+[]\T1/ptm/m/n/10 Djibouti38 Uni-form Or-der Crossover e)
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 579--583
+[]
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 579--583
+[]
+ []
+
+File: Parameter_results/Djibouti38/OC/Djibouti38_OC_a)_table.png Graphic file (
+type png)
+<use Parameter_results/Djibouti38/OC/Djibouti38_OC_a)_table.png>
+Package pdftex.def Info: Parameter_results/Djibouti38/OC/Djibouti38_OC_a)_table
+.png  used on input line 586. on input line 586.
+Package pdftex.def Info: Requested size: 252.94327pt x 58.17694pt on input line
+ 586.
+<Parameter_results/Djibouti38/OC/Djibouti38_OC_a).png, id=82, 602.25pt x 372.39
+125pt>
+File: Parameter_results/Djibouti38/OC/Djibouti38_OC_a).png Graphic file (type p
+ng)
+<use Parameter_results/Djibouti38/OC/Djibouti38_OC_a).png>
+Package pdftex.def Info: Parameter_results/Djibouti38/OC/Djibouti38_OC_a).png  
+used on input line 587. on input line 587.
+Package pdftex.def Info: Requested size: 252.94327pt x 156.40324pt on input lin
+e 587.
+
+Underfull \hbox (badness 10000) in paragraph at lines 585--589
+[]\T1/ptm/m/n/10 Djibouti38 Or-der Crossover a)
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 585--589
+[]
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 585--589
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 585--589
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6 <./Parameter_results/Djibouti38/UOC/Djibouti38_UOC_b).png (PNG copy)> <./Pa
+rameter_results/Djibouti38/UOC/Djibouti38_UOC_c).png (PNG copy)> <./Parameter_r
+esults/Djibouti38/UOC/Djibouti38_UOC_d).png (PNG copy)> <./Parameter_results/Dj
+ibouti38/UOC/Djibouti38_UOC_e).png (PNG copy)>]
+File: Parameter_results/Djibouti38/OC/Djibouti38_OC_b)_table.png Graphic file (
+type png)
+<use Parameter_results/Djibouti38/OC/Djibouti38_OC_b)_table.png>
+Package pdftex.def Info: Parameter_results/Djibouti38/OC/Djibouti38_OC_b)_table
+.png  used on input line 592. on input line 592.
+Package pdftex.def Info: Requested size: 252.94327pt x 58.59851pt on input line
+ 592.
+<Parameter_results/Djibouti38/OC/Djibouti38_OC_b).png, id=86, 602.25pt x 372.39
+125pt>
+File: Parameter_results/Djibouti38/OC/Djibouti38_OC_b).png Graphic file (type p
+ng)
+<use Parameter_results/Djibouti38/OC/Djibouti38_OC_b).png>
+Package pdftex.def Info: Parameter_results/Djibouti38/OC/Djibouti38_OC_b).png  
+used on input line 593. on input line 593.
+Package pdftex.def Info: Requested size: 252.94327pt x 156.40324pt on input lin
+e 593.
+
+Underfull \hbox (badness 10000) in paragraph at lines 591--595
+[]\T1/ptm/m/n/10 Djibouti38 Or-der Crossover b)
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 591--595
+[]
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 591--595
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 591--595
+
+ []
+
+File: Parameter_results/Djibouti38/OC/Djibouti38_OC_c)_table.png Graphic file (
+type png)
+<use Parameter_results/Djibouti38/OC/Djibouti38_OC_c)_table.png>
+Package pdftex.def Info: Parameter_results/Djibouti38/OC/Djibouti38_OC_c)_table
+.png  used on input line 598. on input line 598.
+Package pdftex.def Info: Requested size: 252.94327pt x 60.70638pt on input line
+ 598.
+<Parameter_results/Djibouti38/OC/Djibouti38_OC_c).png, id=87, 602.25pt x 372.39
+125pt>
+File: Parameter_results/Djibouti38/OC/Djibouti38_OC_c).png Graphic file (type p
+ng)
+<use Parameter_results/Djibouti38/OC/Djibouti38_OC_c).png>
+Package pdftex.def Info: Parameter_results/Djibouti38/OC/Djibouti38_OC_c).png  
+used on input line 599. on input line 599.
+Package pdftex.def Info: Requested size: 252.94327pt x 156.40324pt on input lin
+e 599.
+
+Underfull \hbox (badness 10000) in paragraph at lines 597--601
+[]\T1/ptm/m/n/10 Djibouti38 Or-der Crossover c)
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 597--601
+[]
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 597--601
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 597--601
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: Parameter_results/Djibouti38/OC/Djibouti38_OC_d)_table.png Graphic file (
+type png)
+<use Parameter_results/Djibouti38/OC/Djibouti38_OC_d)_table.png>
+Package pdftex.def Info: Parameter_results/Djibouti38/OC/Djibouti38_OC_d)_table
+.png  used on input line 603. on input line 603.
+Package pdftex.def Info: Requested size: 252.94327pt x 57.75537pt on input line
+ 603.
+<Parameter_results/Djibouti38/OC/Djibouti38_OC_d).png, id=88, 602.25pt x 372.39
+125pt>
+File: Parameter_results/Djibouti38/OC/Djibouti38_OC_d).png Graphic file (type p
+ng)
+<use Parameter_results/Djibouti38/OC/Djibouti38_OC_d).png>
+Package pdftex.def Info: Parameter_results/Djibouti38/OC/Djibouti38_OC_d).png  
+used on input line 604. on input line 604.
+Package pdftex.def Info: Requested size: 252.94327pt x 156.40324pt on input lin
+e 604.
+
+Underfull \hbox (badness 10000) in paragraph at lines 602--606
+[]\T1/ptm/m/n/10 Djibouti38 Or-der Crossover d)
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 602--606
+[]
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 602--606
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 602--606
+
+ []
+
+File: Parameter_results/Djibouti38/OC/Djibouti38_OC_e)_table.png Graphic file (
+type png)
+<use Parameter_results/Djibouti38/OC/Djibouti38_OC_e)_table.png>
+Package pdftex.def Info: Parameter_results/Djibouti38/OC/Djibouti38_OC_e)_table
+.png  used on input line 610. on input line 610.
+Package pdftex.def Info: Requested size: 252.94327pt x 56.91223pt on input line
+ 610.
+<Parameter_results/Djibouti38/OC/Djibouti38_OC_e).png, id=89, 602.25pt x 372.39
+125pt>
+File: Parameter_results/Djibouti38/OC/Djibouti38_OC_e).png Graphic file (type p
+ng)
+<use Parameter_results/Djibouti38/OC/Djibouti38_OC_e).png>
+Package pdftex.def Info: Parameter_results/Djibouti38/OC/Djibouti38_OC_e).png  
+used on input line 611. on input line 611.
+Package pdftex.def Info: Requested size: 252.94327pt x 156.40324pt on input lin
+e 611.
+
+Underfull \hbox (badness 10000) in paragraph at lines 609--635
+[]\T1/ptm/m/n/10 Djibouti38 Or-der Crossover e)
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 609--635
+[]
+ []
+
+
+Overfull \hbox (0.94327pt too wide) in paragraph at lines 609--635
+[]
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7 <./Parameter_results/Djibouti38/OC/Djibouti38_OC_a).png (PNG copy)> <./Para
+meter_results/Djibouti38/OC/Djibouti38_OC_b).png (PNG copy)> <./Parameter_resul
+ts/Djibouti38/OC/Djibouti38_OC_c).png (PNG copy)> <./Parameter_results/Djibouti
+38/OC/Djibouti38_OC_d).png (PNG copy)>]
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+[8
+
+ <./Parameter_results/Djibouti38/OC/Djibouti38_OC_e).png (PNG copy)>]
+("TSP report.aux")
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 6649 strings out of 493312
+ 103981 string characters out of 3138901
+ 160820 words of memory out of 3000000
+ 10027 multiletter control sequences out of 15000+200000
+ 112471 words of font info for 128 fonts, out of 3000000 for 9000
+ 1144 hyphenation exceptions out of 8191
+ 41i,8n,38p,1092b,356s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><
+C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Program Files
+/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts
+/type1/urw/times/utmri8a.pfb>
+Output written on "TSP report.pdf" (8 pages, 623551 bytes).
+PDF statistics:
+ 127 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 201 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="ca.brocku.kt13nh.Student_Connect.Home">
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="Schedule Options"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/allOption"
+        android:orderInCategory="101"
+        android:title="Clear All meetings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/todayOption"
+        android:orderInCategory="101"
+        android:title="Clear Today's meetings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/tomorrowOption"
+        android:orderInCategory="101"
+        android:title="Push Today's meetings"
+        app:showAsAction="never" />
+</menu>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "783219548823",
+    "firebase_url": "https://student-connect-26f0e.firebaseio.com",
+    "project_id": "student-connect-26f0e",
+    "storage_bucket": "student-connect-26f0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783219548823:android:508e7d6d69dc6804",
+        "android_client_info": {
+          "package_name": "ca.brocku.kt13nh.Student_Connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783219548823-6dfg93q95po4ablf4598k3pj0lp69upq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABrniWn9vraWAKAb4mDJiL524PLCE8eyI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

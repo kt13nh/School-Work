@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This is used for the pop up window when user wants to add a new event -->
+<!-- Refer to manifest for the custom applied theme to this pop up window -->
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:scrollbars="vertical"
+    android:background="@drawable/pop_up_border_event"
+    android:id="@+id/newEvent">
+    <LinearLayout
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textEvent"
+                android:layout_gravity="center_horizontal"
+                android:text="Event details:"
+                android:textAllCaps="true"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                android:textSize="10pt"
+                android:layout_marginTop="20dp"/>
+        </LinearLayout>
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:id="@+id/editEventTitle"
+            android:hint="Event Title"
+            android:paddingLeft="10dp"
+            android:maxLength="128"
+            android:inputType="textNoSuggestions|textVisiblePassword"
+            android:layout_marginTop="20dp"
+            app:met_baseColor="@android:color/black"
+            app:met_primaryColor="@color/black"
+            android:background="@drawable/textinputborder"/>
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/editEventDescription"
+            android:hint="Event description (optional)"
+            android:inputType="textMultiLine"
+            android:lines="8"
+            android:maxLength="1024"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/textinputborder"
+            app:met_baseColor="@android:color/black"
+            app:met_primaryColor="@color/black"
+            android:paddingLeft="10dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:text="Event\nDate:"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:textSize="25dp"
+            android:textColor="@color/black"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:layout_marginTop="10dp">
+
+            <DatePicker
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:datePickerMode="spinner"
+                android:layout_marginLeft="10dp"
+                android:background="@drawable/pop_up_border_event"
+                android:id="@+id/datePicker"
+                android:calendarViewShown="false"></DatePicker>
+        </LinearLayout>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:text="Event\nTime:"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="25dp"
+            android:textColor="@color/black"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:gravity="center"
+            android:layout_marginTop="10dp">
+
+            <TimePicker
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:timePickerMode="spinner"
+
+                android:layout_marginLeft="10dp"
+                android:id="@+id/timePicker"
+                android:background="@drawable/pop_up_border_event">
+            </TimePicker>
+        </LinearLayout>
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:id="@+id/editLocation"
+            android:hint="Location"
+            android:background="@drawable/textinputborder"
+            android:maxLength="32"
+            app:met_baseColor="@android:color/black"
+            android:inputType="textNoSuggestions|textVisiblePassword"
+            app:met_primaryColor="@color/black"
+            android:paddingLeft="10dp"
+            android:layout_marginTop="20dp"/>
+        <!--
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <CheckBox
+                android:id="@+id/checkBoxEvent"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:text="Create Anonymously"
+                android:textColor="@color/black"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+         Refer to values/array for entries in spinner
+        <Spinner
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/spinnerEvents"
+            android:entries="@array/EventHobbiesList"
+            android:layout_marginTop="20dp">
+        </Spinner>
+        -->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:layout_marginTop="20dp">
+
+            <Button
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:id="@+id/cancelButton"
+                android:text="Cancel" />
+
+            <Button
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:id="@+id/createButton"
+                android:text="Create"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>

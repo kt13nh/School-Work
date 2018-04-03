@@ -1,0 +1,35 @@
+bash-4.1$ g++ -o run main.cpp approximations.cpp randomNumberGenerator.cpp
+bash-4.1$ ./run
+Approximation 1: 3.2
+Approximation 2: 3.162
+Approximation 3: 3.14267
+Approximation 4: 3.151
+Approximation 5: 3.148
+Approximation 6: 3.12267
+Approximation 7: 3.124
+Approximation 8: 3.126
+Approximation 9: 3.12356
+Approximation 10: 3.1236
+Approximation 11: 3.12
+Approximation 12: 3.12367
+Approximation 13: 3.12246
+Approximation 14: 3.12914
+Approximation 15: 3.13307
+Approximation 16: 3.131
+Approximation 17: 3.13459
+Approximation 18: 3.132
+Approximation 19: 3.12926
+Approximation 20: 3.126
+Approximation 21: 3.12686
+Approximation 22: 3.12982
+Approximation 23: 3.12922
+Approximation 24: 3.1305
+Approximation 25: 3.13024
+Approximation 26: 3.13185
+Approximation 27: 3.13348
+Approximation 28: 3.13457
+Approximation 29: 3.13062
+Approximation 30: 3.1312
+Approximation 31: 3.1329
+Approximation 32: 3.13475
+bash-4.1$ 

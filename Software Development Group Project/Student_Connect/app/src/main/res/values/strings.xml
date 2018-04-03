@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Student Connect</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_drawer_test">drawerTest</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="title_activity_home_navigation">HomeNavigation</string>
+
+    <!--Below used for CoursesFragment Page -->
+    <string name="hintTxtItem"> Enter course code here...</string>
+    <string name="lblBtnAdd">Add Course</string>
+    <string name="txtEmpty">List is empty</string>
+    <string name="lblBtnDel">Delete Selected Courses</string>
+    <!-- end of what is used for CoursesFragmentPage -->
+
+    <!--Below used for entries in spinners in pop up windows of new question and new event -->
+    <string name="QACourse1">COSC 4F00</string>
+    <string name="QACourse2">COSC 3P97</string>
+    <string name="QACourse3">COSC 4P14</string>
+    <string name="QACourse4">MATH 1P06</string>
+
+    <string name="Hobbies1">Creative Arts</string>
+    <string name="Hobbies2">Educational</string>
+    <string name="Hobbies3">Games and Sports</string>
+    <string name="Hobbies4">Outdoor Recreation</string>
+    <string name="Hobbies5">Other</string>
+    <!-- End of spinner entries for pop up windows -->
+
+    <string name="title_activity_courses_page">CoursesPage</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_hobbies_register_page">HobbiesRegisterPage</string>
+</resources>

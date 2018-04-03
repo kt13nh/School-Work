@@ -1,0 +1,512 @@
+XX   XX  X      X   
+X  X    XXX X       
+ X XX      X    X  X
+ XX   X  XX X       
+     XX    X  X  X X
+       XXX  X X X X 
+XX  X   XX X XXX  X 
+X X    X XX X XX    
+X  X    X X  X   X  
+  XXXXXX      X X X 
+ X X X X X X X      
+ XXXX    XXX     XXX
+This is generation: 1
+
+To display next generation, enter 1. To exit, enter anything else
+1
+New generation:
+
+   XXX   XX XX      
+    XX  XXXXX       
+       X    X X    X
+XX X   X X      XX X
+X  XX XX XXX    XX  
+ X X     X         X
+ XXX   XXX    X  X  
+    X  XX    XXXXXX 
+ X   XX X          X
+X  X X  XXXX        
+ X XX   X   X       
+XXXXX X   X X     X 
+X    XX    XX  X XXX
+X    XXX X XX   X X 
+XX         X    XX  
+X XX   X    X  XX  X
+     X  X XX X  XX  
+ X   X X XX XXX  X  
+ X     X X XX      X
+XX XX   XX XX     X 
+This is generation: 2
+
+To display next generation, enter 1. To exit, enter anything else
+1
+New generation:
+
+X X          X      
+   X XX X           
+X   X XX    XX    XX
+ XXXX  X X X   XXX X
+   XX XX X      XX X
+ X    X         XXX 
+XX XX  X X   XX  X  
+XX XXX       XXXXXXX
+X    XX   X   XXXXXX
+XX X XX X XX       X
+       XX   X      X
+X     XX    XX   XX 
+  XX         X  X   
+     X X       X    
+  X    XX XX      X 
+X X       X X  X  X 
+XXX X  XX X      XX 
+X      X      X XXX 
+ X  X XX          XX
+XXX     XX XX      X
+This is generation: 3
+
+To display next generation, enter 1. To exit, enter anything else
+1
+New generation:
+
+  XX   XXX  X      X
+XX XXXX     XX     X
+XX          X   XXXX
+ XX       X X  X   X
+ X  X XX  X        X
+ X    X        X    
+   X  X      X      
+   X                
+   X   X XXX X      
+ X  XX  X XX   XXX  
+ X   X  XX  XX     X
+X     XXX   XX   XXX
+       X    XXX XX  
+  XX  XXX           
+ X    XXXXXX        
+X X       X       X 
+X XX   XXX X   X    
+X XX X          X   
+  X   XX            
+ XX    XX         XX
+This is generation: 4
+
+To display next generation, enter 1. To exit, enter anything else
+1
+New generation:
+
+     X   X  XX      
+   XXXXXX  XXX   X  
+   XXX      X   XX  
+  X             XX X
+ X   XXX   X        
+  X   X             
+  X                 
+  XXX     X X       
+  XX    XX XX   X   
+  X XXXX     XX X   
+ X  XX    X  XX    X
+X     X  X X    XX X
+X           X X XX  
+  X       XXXX      
+ X X  X   XX       X
+X XX  X             
+X   X   XXX        X
+    X               
+      XXX           
+ XX   XXX           
+This is generation: 5
+
+To display next generation, enter 1. To exit, enter anything else
+1
+New generation:
+
+  XX     X X X      
+   X   XX  X    XX  
+  X    X   XXX      
+  XX            XXX 
+ XX  XXX            
+ XX  XXX            
+ XX                 
+ X  X    XX X       
+ X    XXXXXXX  X    
+ XX   XXXXXX  X     
+XX XX  X  X XXX XXXX
+ X   X    XXX X XX X
+XX             XXXX 
+XXX       X  X      
+XX X      X        X
+X XXXX X   X        
+XX  XX   X          
+     X              
+     XX X           
+      X X           
+This is generation: 6
+
+To display next generation, enter 1. To exit, enter anything else
+1
+New generation:
+
+  XX     XX X       
+   X   XX  X X      
+  X    XX  XX     X 
+   X   X    X    X  
+    XX X         X  
+X  X X X            
+X  X XX             
+XX     X    X       
+XX   XX     XX      
+   X X        X XXXX
+   XXX X      X X   
+    X     X X X     
+          X XXXX  X 
+                XXX 
+          XX       X
+     XX   X        X
+XXX                 
+                    
+     XX             
+     XX             
+This is generation: 7
+
+To display next generation, enter 1. To exit, enter anything else
+1
+New generation:
+
+  XXX XXXXXXX       
+   X   X     X      
+  XX  X    X X      
+   XX  X   XX    XX 
+   X X XX           
+   X   X           X
+X X  X X           X
+  X X  X    XX      
+XXX XXX     XX   XXX
+X XX          X XXX 
+   X XX       X X X 
+   XXX      X       
+            X XXX X 
+          X XXXXXXXX
+          XX     X X
+ X        XX       X
+XX                  
+XX                  
+     XX             
+     XX             
+This is generation: 8
+
+To display next generation, enter 1. To exit, enter anything else
+1
+New generation:
+
+  XXX   XXXXX       
+     X   X   X      
+  X   XX   X X      
+     X XX  XX       
+  XX   XX         XX
+  XX   X           X
+XXX X  XX          X
+  X X  X    XX      
+    XXX     X X X   
+X             X X   
+     XX      X  X X 
+   X XX       X X   
+    X       X     XX
+          X X      X
+X        X   XXX X  
+ X        XX      XX
+  X                X
+ X                  
+     XX             
+     XX             
+This is generation: 9
+
+To display next generation, enter 1. To exit, enter anything else
+1
+New generation:
+
+   XX X XXXXX       
+  X XXXX X   X      
+     X X  XX X      
+  XX       XX       
+  XXX             XX
+    X X             
+    X XXX          X
+  X X  XX   XX      
+   XXXX     X X     
+    X         X X   
+    XXX      XX X   
+      X      X X  XX
+    XX     X X    XX
+X          XX X    X
+X        X  XXX     
+ X        X   X   XX
+ XX               XX
+X                   
+     XX             
+     XX             
+This is generation: 10
+
+To display next generation, enter 1. To exit, enter anything else
+1
+New generation:
+
+   X    XXXXX       
+             X      
+  X  X XX XX X      
+  X       XXX       
+  X XX              
+    X X           XX
+    X X X           
+        X   XX      
+      XX    X XX    
+              X     
+    X X      X  XX  
+      X      X X XX 
+X    X     X X      
+          XX  X   X 
+ X        X X XX  X 
+ XX           X   X 
+ XX               X 
+XX                 X
+     XX             
+     XX             
+This is generation: 11
+
+To display next generation, enter 1. To exit, enter anything else
+1
+New generation:
+
+         XXXX       
+       X     X      
+         XX  X      
+ XX XXX  XX X       
+    XX     X        
+    X XX            
+                    
+     XX X   XXX     
+       X    X XX    
+     XXX      X X   
+     X       X XXXX 
+      X      X   XX 
+          XX X   XXX
+          X   XX    
+ XX       X   XX XXX
+X            XXX XX 
+                  X 
+XXX                X
+X    XX             
+     XX             
+This is generation: 12
+
+To display next generation, enter 1. To exit, enter anything else
+1
+New generation:
+
+      X   XXX       
+        X    X      
+     XX XXXXXX      
+   XX X  X  X       
+       X  XX        
+    X X             
+             X      
+      XX    X XX    
+        X   X       
+     X X            
+     X X     X X  X 
+             X      
+          XXXX  XX X
+         XX  X X    
+ X               X X
+XX           X X    
+              X  XX 
+XX                 X
+X    XX             
+     XX             
+This is generation: 13
+
+To display next generation, enter 1. To exit, enter anything else
+1
+New generation:
+
+     XXX   XX       
+     XX X    X      
+    XXX X XX X      
+    X X      X      
+   XX XX  XX        
+                    
+     XXX     XX     
+       X    X X     
+        X    X      
+       XX           
+              X     
+           X X  XXX 
+         XXX X  X   
+         XX  XX  X X
+ X              X   
+XX            X XX  
+              X   X 
+XX                XX
+XX   XX             
+     XX             
+This is generation: 14
+
+To display next generation, enter 1. To exit, enter anything else
+1
+New generation:
+
+    X       X       
+        XXX  X      
+    X    X   XX     
+         X          
+   XX XX            
+    X               
+      XX     XX     
+       XX   X X     
+        X    X      
+       XX           
+                 X  
+           X XXXXX  
+         X X X XX   
+         X XXXXXXX  
+ X           XX X X 
+XX              XX X
+               X  X 
+ X                X 
+ X   XX            X
+X    XX             
+This is generation: 15
+
+To display next generation, enter 1. To exit, enter anything else
+1
+New generation:
+
+     X   X          
+        XXX XXX     
+             XX     
+   XXX  X           
+   XXX              
+   XX               
+      XXX    XX     
+      X X   X X     
+         X   X      
+       XX           
+              XX X  
+          X  X   X  
+           X        
+           X        
+XX                XX
+XX            X X  X
+ X              X XX
+X                 X 
+ X   XX            X
+X    XX             
+This is generation: 16
+
+To display next generation, enter 1. To exit, enter anything else
+1
+New generation:
+
+     XX XXX  X      
+        XXX X X     
+    X   X   X X     
+   X X              
+  X                 
+   X  XX            
+     XX X    XX     
+      X XX  X X     
+         X   X      
+        X     X     
+              X X   
+              X X   
+          XXX       
+                    
+ X                X 
+  X            X    
+ X             X  X 
+ X               XX 
+ X   XX            X
+X    XX             
+This is generation: 17
+
+To display next generation, enter 1. To exit, enter anything else
+1
+New generation:
+
+     XX X XX X      
+     X    X X X     
+    X   X  X        
+   XX               
+  XXX X             
+     XXX            
+     X  XX   XX     
+     XX XX  X X     
+       X X   XX     
+             XXX    
+             XX     
+           X X      
+           X        
+           X        
+                    
+ XX                 
+ XX             XXX 
+XXX              XX 
+ X   XX           XX
+X    XX             
+This is generation: 18
+
+To display next generation, enter 1. To exit, enter anything else
+1
+New generation:
+
+    X  X XXXXX      
+    XXXX  X XX      
+   XXX     X        
+  X                 
+  X   XX            
+   X   XX           
+    X    X   XX     
+     XX   X X  X    
+      XX X  X       
+            X  X    
+               X    
+             XX     
+          XX        
+                    
+                    
+ XX              X  
+   X            X XX
+X               X   
+  X  XX          XXX
+X    XX            X
+This is generation: 19
+
+To display next generation, enter 1. To exit, enter anything else
+1
+New generation:
+
+X   X  XXXX  X      
+       XXX   X      
+   X       XX       
+  X XXX             
+  XX  XXX           
+   X  XXX           
+    XXXXXX   XX     
+     XXXXXXXX X     
+     XXX    XX      
+                    
+             X X    
+              X     
+                    
+                    
+                    
+  X              XXX
+XXX             X XX
+                X   
+ X   XX          XXX
+X    XX            X
+This is generation: 20
+
+To display next generation, enter 1. To exit, enter anything else
+f
+
+Goodbye!bash-4.1$ 

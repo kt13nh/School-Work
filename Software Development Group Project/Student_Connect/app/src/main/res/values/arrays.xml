@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="EventHobbiesList">
+        <item>@string/Hobbies1</item>
+        <item>@string/Hobbies2</item>
+        <item>@string/Hobbies3</item>
+        <item>@string/Hobbies4</item>
+        <item>@string/Hobbies5</item>
+    </array>
+    <array name="QACourseList">
+        <item>@string/QACourse1</item>
+        <item>@string/QACourse2</item>
+        <item>@string/QACourse3</item>
+        <item>@string/QACourse4</item>
+    </array>
+</resources>

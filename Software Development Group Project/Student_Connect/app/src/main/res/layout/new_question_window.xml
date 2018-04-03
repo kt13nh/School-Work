@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This is used for the pop up window when user wants to add a new question -->
+<!-- Refer to manifest for the custom applied theme to this pop up window -->
+<!-- Upload image button still PENDING, ask Ronny as he did one already for the chats *********-->
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:scrollbars="vertical"
+    android:background="@drawable/pop_up_border_event"
+    android:id="@+id/newQuestion">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textQA"
+                android:layout_gravity="center_horizontal"
+                android:text="Question details:"
+                android:textAllCaps="true"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                android:textSize="10pt"
+                android:layout_marginTop="20dp"/>
+
+        </LinearLayout>
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            app:met_primaryColor="@color/black"
+            android:id="@+id/editQATitle"
+            android:hint="Title"
+            android:paddingLeft="10dp"
+            android:maxLength="128"
+            android:inputType="textNoSuggestions|textVisiblePassword"
+            android:layout_marginTop="20dp"/>
+
+        <!-- Refer to values/array for entries in spinner -->
+        <Spinner
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/spinnerCourses"
+            android:entries="@array/QACourseList"
+            android:layout_marginTop="20dp">
+        </Spinner>
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/editQADescription"
+            android:hint="Question description(optional)"
+            android:inputType="textMultiLine"
+            android:lines="8"
+            app:met_primaryColor="@color/black"
+            android:maxLength="1024"
+            android:layout_marginTop="20dp"
+            android:paddingLeft="10dp"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+
+            <CheckBox
+                android:id="@+id/checkBoxQAAnonymous"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="5dp"
+                android:text="Post Anonymously"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:layout_marginTop="20dp">
+
+            <Button
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:id="@+id/cancelButton"
+                android:text="Cancel" />
+
+            <Button
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:id="@+id/postButton"
+                android:text="Post"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>

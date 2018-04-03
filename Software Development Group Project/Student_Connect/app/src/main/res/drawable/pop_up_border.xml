@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Used for the border for in Question pop up window so it stands out more -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <solid
+        android:color="@color/darkGrey"/>
+
+    <stroke
+        android:width="2.5dp"
+        android:color="@color/black"/>
+
+    <corners
+        android:radius="5dp"/>
+
+</shape>
