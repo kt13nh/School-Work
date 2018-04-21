@@ -1,0 +1,72 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 6, 2015, 7:35:40 PM
+    Author     : Kevin
+*/
+
+/*background colour for body, and set fonts for the body
+*/
+body{
+    background-color: whitesmoke;
+    font-family:Trebuchet MS, sans-serif;
+}
+/*align h1 elements, increase font size, and set font
+*/
+h1{
+    text-align: center;
+    font-size: 300%;
+    font-family:Trebuchet MS, sans-serif;
+}
+
+/*set fonts, and position h2
+*/
+h2{
+    margin-left: 50px;
+    font-family:Trebuchet MS, sans-serif;
+}
+
+/*position list, set font, and colour
+*/
+ol{
+    margin-left:50px;
+    font-family:Trebuchet MS, sans-serif;
+    color: navy;
+}
+
+/*Position h3, set fonts
+*/
+h3{
+    margin-left:100px;
+    font-family:Trebuchet MS, sans-serif;
+}
+
+/*Position list, set font, and colour
+*/
+ul{
+    margin-left:100px;
+    font-family:Trebuchet MS, sans-serif;
+    color:navy;
+}
+
+/*position h6ID, and set font
+*/
+div.h6ID{
+    margin-left:150px;
+    font-family:Trebuchet MS, sans-serif;
+}
+
+/*Set size of picture, and position.
+*/
+#rollID{
+    width: 800px;
+    height: 220px;
+    position:absolute;
+    top:125px;
+    right:330px;
+}
+
+
