@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<!-- - - - - - - - - - - - - - -   - - - - - -->
+
+<script>
+//function to show suggestions 
+function showHint(str) {
+    if(albumButton.checked){
+        if (str.length == 0) {
+            document.getElementById("txtHint").innerHTML = "";
+            return;
+        } else {
+            var xmlhttp = new XMLHttpRequest();
+            xmlhttp.onreadystatechange = function() {
+                if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+                    document.getElementById("txtHint").innerHTML = xmlhttp.responseText;
+                }
+            };
+            xmlhttp.open("GET", "PHP/albumHint.php?q=" + str, true);
+            xmlhttp.send();
+        }
+    }
+    if(songButton.checked){
+        if(str.length == 0) {
+            document.getElementById("txtHint").innerHTML = "";
+            return;
+        }else {
+            var xmlhttp = new XMLHttpRequest();
+            xmlhttp.onreadystatechange = function() {
+                if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+                    document.getElementById("txtHint").innerHTML = xmlhttp.responseText;
+                }
+            };
+            xmlhttp.open("GET", "PHP/songHint.php?q=" + str, true);
+            xmlhttp.send();
+        }
+    }
+    if(songComposerButton.checked){
+        if (str.length == 0) {
+            document.getElementById("txtHint").innerHTML = "";
+            return;
+        } else {
+            var xmlhttp = new XMLHttpRequest();
+            xmlhttp.onreadystatechange = function() {
+                if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+                    document.getElementById("txtHint").innerHTML = xmlhttp.responseText;
+                }
+            };
+            xmlhttp.open("GET", "PHP/songHint.php?q=" + str, true);
+            xmlhttp.send();
+        }
+    }
+    if(songSearchButton.checked){
+        if (str.length == 0) {
+            document.getElementById("txtHint").innerHTML = "";
+            return;
+        } else {
+            var xmlhttp = new XMLHttpRequest();
+            xmlhttp.onreadystatechange = function() {
+                if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+                    document.getElementById("txtHint").innerHTML = xmlhttp.responseText;
+                }
+            };
+            xmlhttp.open("GET", "PHP/songHint.php?q=" + str, true);
+            xmlhttp.send();
+        }
+    }
+}
+</script>
+
+
+</head>
+<body>
+    <head>
+        <link rel="stylesheet" type="text/css" href="CSS/css1.css">
+        <link rel="stylesheet" type="text/css" href="CSS/css2.css">
+        <title>Result</title>
+    </head>
+    <h1>
+        The Beatles
+        <img src="pictures/record.png" alt="picture" width ="50" height="50">
+    </h1>
+    <p align='center'>
+        <a href ="assign2.html"> Home </a> |
+        <a href="sub1.html"> John Lennon</a> |
+        <a href="sub2.html"> George Harrison</a> |
+        <a href="sub3.html"> Ringo Starr</a> |
+        <a href="sub4.html"> Paul McCartney</a> |
+        <a href="sub5.html"> Discography</a> |
+        <a href="sub6.html"> Other Beatles members</a> |
+        <a href="sub7.html"> Discography Selections</a> 
+    </p>
+    <hr />
+    
+    <form action = "PHP/sub7.php" method="POST">
+        <fieldset>
+            <legend>Option Selector</legend>
+            <label for="albumButton">Display selected album and included songs</label>
+            <input type="radio" name ="radiobutton" checked="checked" value="albumButton" id="albumButton"/>
+            <br>
+            <label for="songButton">Display selected song and composer(s)</label>
+            <input type="radio" name ="radiobutton" value="songButton" id="songButton"/>
+            <br>
+            <label for="songComposerButton">Display selected song and information pertaining to composer(s)</label>
+            <input type="radio" name ="radiobutton" value="songComposerButton" id="songComposerButton"/>
+            <br>
+            <label for="songSearchButton">Display selected song, and those that are similarly named</label>
+            <input type="radio" name ="radiobutton" value="songSearchButton" id="songSearchButton"/></br>
+            <br>
+Input: <input type="text" name ="txtField" onkeyup="showHint(this.value)">
+            <p>Suggestions: <span type="text" name="txtHint" id="txtHint"></span></p>
+            <input type ="submit" name="choose" value ="Choose">
+        </fieldset>
+    </form>
+    <fieldset>
+        <legend>Album Names</legend>
+        <ol>
+            <li>
+                Please Please Me
+            </li>
+            <li>
+                Beatlemania! With the Beatles
+            </li>
+            <li>
+                Meet the Beatles!
+            </li>
+            <li>
+                The Beatles' Long Tall Sally
+            </li>
+            <li>
+                Help!
+            </li>
+            <li>
+                Rubber Soul
+            </li>
+            <li>
+                Sgt. Pepper's Lonely Hearts Club Band
+            </li>
+            <li>
+                Yellow Submarine
+            </li>
+            <li>
+                Let It Be
+            </li>
+        </ol>
+    </fieldset>
+</body>
+
+
+
+
+
+
+
+</html>

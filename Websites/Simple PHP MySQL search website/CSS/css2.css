@@ -1,0 +1,50 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 25, 2015, 7:39:58 PM
+    Author     : Kevin
+*/
+
+blockquote{    
+    background-color: whitesmoke;
+    width: 500px;
+    padding: 30px;
+    border: 10px solid grey;
+    margin: 25px;    
+}
+#p{
+    padding: 25px;
+}
+td, th{
+    border:  solid black;
+}
+
+table{
+    border:solid black;
+    font-size: 15px;
+}
+#sutcliffeYoung{
+    float:right;
+    bottom:-250px;
+    right:0;
+}
+#peteBestYoungPic{
+    position: static;
+    
+    width:500px;
+}
+
+#aHardDaysNight,#beatlesForSale,#theBeatlesSecondAlbum,#beatlesForSale,#withTheBeatles{
+    float:left;
+}
+#userlegend{
+    font-weight: bold;
+}
+
+th{
+    height:50px;
+    width:100px;
+}
